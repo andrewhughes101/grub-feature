@@ -17,4 +17,4 @@ A feature allowing you to run your git builds on a ssh remote
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/andrewhughes101/grub-feature/blob/main/src/grub/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
