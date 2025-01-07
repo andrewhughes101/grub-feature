@@ -1,0 +1,9 @@
+{
+    "name": "git remote user build",
+    "id": "grub",
+    "version": "1.0.0",
+    "description": "A feature allowing you to run your git builds on a ssh remote",
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
