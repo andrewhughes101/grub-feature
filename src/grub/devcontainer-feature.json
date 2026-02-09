@@ -3,6 +3,13 @@
     "id": "grub",
     "version": "1.0.0",
     "description": "A feature allowing you to run your git builds on a ssh remote",
+    "options": {
+        "version": {
+            "type": "string",
+            "default": "latest",
+            "description": "Version of grub to install. Use 'latest' for the most recent release, or specify a release tag (e.g., 'v0.2.1')"
+        }
+    },
     "installsAfter": [
         "ghcr.io/devcontainers/features/common-utils"
     ]
